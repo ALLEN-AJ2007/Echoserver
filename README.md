@@ -73,6 +73,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 print(f"Received {data!r}")
 ```
 
+<img width="951" height="993" alt="Screenshot 2026-10-30 211547" src="https://github.com/user-attachments/assets/9d260f1f-0a5a-4e2f-9aeb-7a371cf9de98" />
 
 ## RESULT:
 The program is executed successfully
